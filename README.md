@@ -32,3 +32,5 @@ This project is useful for inbox analysis, contact auditing, and quick mailbox c
 
 ## Limitations
 Header formats can vary, so `--group-by-email` may not always be perfect. This repo is best treated as a pragmatic utility rather than a full email intelligence pipeline.
+
+MIT licence.
