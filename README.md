@@ -1,5 +1,7 @@
 # mbox-sender-analyzer
 
+[![License](https://img.shields.io/github/license/aikitpete/mbox-sender-analyzer)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 A Python command-line tool that analyzes Gmail MBOX exports and ranks senders by how many emails they sent.
 
 ## What it does
